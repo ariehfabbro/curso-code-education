@@ -1,3 +1,3 @@
 # curso-code-education
 
-docker hub arieh: https://hub.docker.com/repository/docker/ariehfabbro/laravel_app
+docker hub arieh: https://hub.docker.com/r/ariehfabbro/laravel_app
